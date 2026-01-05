@@ -6,7 +6,7 @@ I make useless libraries and softwares for you to use. I'm also a so-called UTAU
 
 <div style="display:inline-block;vertical-align:top;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0komo&theme=tokyonight&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzko&theme=tokyonight&layout=donut)
 
 </div>
 </br>
@@ -81,8 +81,8 @@ SOFTWARE.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/komothecat/komothecat/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/komothecat/komothecat/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/komothecat/komothecat/raw/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fuzzko/fuzzko/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fuzzko/fuzzko/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/fuzzko/fuzzko/raw/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
